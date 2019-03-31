@@ -1,5 +1,4 @@
 # lolapi
-=====
 
 League of Legends developer API in a convenient Go library!
 
